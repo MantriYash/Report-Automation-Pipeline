@@ -1,6 +1,6 @@
 # Report-Automation-Pipeline
 
-# 📊 3M Automation Report Pipeline
+# 📊 Report Automation  Pipeline
 
 An automated data pipeline designed to extract retail analytics from an enterprise data lake, map complex business dimensions, and compile multi-layered performance dashboards. It builds and deploys two distinct operational datasets—**Market Share (MS)** and **Share of Voice (SOV)**—directly to live reporting suites.
 
